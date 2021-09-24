@@ -6,7 +6,6 @@ code = input("Enter channel code: ")
 url = (api+action)
 
 data = "{\r\n \"channel\":\"%s\"\r\n}" % code
-print (data)
 for i in range(1):
  headers = {
  'CH-Languages': 'en-US',
@@ -21,6 +20,5 @@ for i in range(1):
  'Content-Type': 'application/json; charset=utf-8',
  'Authorization': 'Token '+usertoken
  }
-#print (url, headers)
-#response = requests.request ("POST", url, headers=headers, data=data)
-#print (response.text)
+response = requests.request ("POST", url, headers=headers, data=data)
+print (response.text)

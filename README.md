@@ -10,8 +10,11 @@
 `python3 run.py`
 
 * Answer the following questions:
+* 
 `usertoken = input ("Enter your Token : ")`
+
 `action = input("Enter your action: ")`
+
 `code = input("Enter channel code: ")`
 
 * Enjoy it...

@@ -4,11 +4,6 @@
 ## action command 
 
 ``` record_action_trails
-start_phone_number_auth
-call_phone_number_auth
-resend_phone_number_auth
-complete_phone_number_auth
-check_waitlist_status
 get_release_notes
 get_all_topics
 get_topic

@@ -1,5 +1,24 @@
 # clubhouse-cli
+
+
+## How to use
+
+* clone this repo with this command:
+`git clone https://github.com/NSAclub/clubhouse-cli.git`
+
+* Run the program with:
+`python3 run.py`
+
+* Answer the following questions:
+`usertoken = input ("Enter your Token : ")`
+`action = input("Enter your action: ")`
+`code = input("Enter channel code: ")`
+
+* Enjoy it...
+
+
 ## who to get token
+
 
 ## action command 
 

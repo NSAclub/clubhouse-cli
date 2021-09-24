@@ -1,6 +1,17 @@
 # clubhouse-cli
 
 
+## Requirements
+
+* Python 3
+* Python `requests` package
+
+## Project Goals:
+
+* Help to improve Clubhouse
+* 
+* 
+
 ## How to use
 
 * clone this repo with this command:
@@ -26,6 +37,8 @@
 
 
 ## action command 
+
+Action Lists that can be used:
 
 ``` record_action_trails
 start_phone_number_auth
@@ -135,3 +148,9 @@ create_event
 edit_event
 get_event 
 ```
+
+### Chat With Us About Clubhouse
+
+* Find us on [Telagram](https://t.me)
+
+#### 

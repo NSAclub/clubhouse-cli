@@ -146,6 +146,6 @@ get_event
 
 ### Chat With Us About Clubhouse
 
-* Find us on [Telagram](https://t.me)
+* Find us on [Telagram](https://t.me/nsaclub)
 
 #### 
